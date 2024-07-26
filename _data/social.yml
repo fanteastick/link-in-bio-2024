@@ -1,4 +1,8 @@
 - name: x
   url: https://x.com/eilleeenz
   icon: ri:twitter-x-fill
-  color: '#1D9BF0'
+  color: '#000000'
+- name: github
+  url: https://github.com/fanteastick
+  icon: ri:github-fill
+  color: '#000000'
